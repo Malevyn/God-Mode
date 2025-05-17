@@ -1,0 +1,16 @@
+{
+    "files": {
+        "README.md": "07512121efebb4f19cc6da26d5ac096ca84227edb6160c80a1f8c7bb94d3ce09",
+        "index.js": "4e8b8d10e66137d1515878621391650356eb8db7de35d5bf367c542106238c7e",
+        "module.json": "f029a17655e3f41c860192eae1dfb0f0a5605addaaacb5e9dad209f4c5205f47",
+        "settings.json": "0e8fc01bc49c7fc0cae23d68d149600a11015bfeb32defd31c7f514f00c572f5"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_START_SKILL": 7,
+        "C_USE_ITEM": 3,
+        "S_ABNORMALITY_BEGIN": 4,
+        "S_ABNORMALITY_END": 1,
+        "S_LOGIN": 14
+    }
+}

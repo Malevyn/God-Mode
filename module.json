@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "God-Mode",
+    "author": "Ace",
+    "description": "Toggle God mode (invincibility) using !god command.",
+    "options": {
+        "niceName": "God-Mode",
+        "guiName": "God-Mode"
+    },
+    "servers": [""],
+    "supportUrl": "",
+    "version": "1.0"
+}

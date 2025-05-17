@@ -1,0 +1,1 @@
+This script grants your character invincibility by utilizing an advanced algorithm to modify the height coordinate . this is exclusive penthouse guild only . However, god mode remains active only if the character remains stationary—movement will deactivate the effect.
