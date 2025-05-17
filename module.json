@@ -7,7 +7,7 @@
         "niceName": "God-Mode",
         "guiName": "God-Mode"
     },
-    "servers": [""],
-    "supportUrl": "",
+    "servers": ["https://raw.githubusercontent.com/Malevyn/God-Mode/master/"],
+    "supportUrl": "https://github.com/Malevyn/God-Mode/issues",
     "version": "1.0"
 }
